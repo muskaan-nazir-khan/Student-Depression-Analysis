@@ -10,31 +10,31 @@ In the SQL stage, I imported and cleaned the survey data by standardizing catego
 In the Tableau stage, I designed an interactive dashboard presenting segmented visual insights across various stressors. Each chart visualizes how student counts are distributed across different levels of sleep, study, academic pressure, and financial situations. This dashboard allows institutions to understand trends at a glance and apply filters by factor type to analyze specific subgroups
 
 # Key Insights:
-~ Sleep Duration Patterns:
+~ Sleep Duration(SD) Patterns:
 
 1.Students getting 7–8 hours or more than 8 hours of sleep each have a count of 128, which is higher than those with 5–6 hours or less than 5 hours (both at 123).
 
 2.Despite the assumption that longer sleep improves mental health, the equal distribution suggests that oversleeping may be linked to low energy or depressive                 symptoms rather than recovery
 
-~ Study Hours Distribution:
+~ Study Hours(SH) Distribution:
 
 1.The number of students gradually increases with study hours, peaking at 10 hours (53 students), and staying high from 8–12 hours (45–46 students).
 
 2.This trend suggests that moderate-to-high study engagement correlates with larger student groups, but it may also point to academic stress buildup in those                   studying beyond 8–10 hours.
 
-~ Study Satisfaction Levels:
+~ Study Satisfaction(SS) Levels:
 
 1.Study Satisfaction score 4 has the highest count (116 students), indicating that a good portion of students are reasonably satisfied.
 
 2.However, over 180 students reported scores of 1 and 2, meaning that almost one-third of students are dissatisfied with their study experience, potentially a                  red flag for mental health risks.
 
-~Academic Pressure Trends:
+~Academic Pressure(AP) Trends:
 
 1.The majority of students report moderate academic pressure (AP-3, 125 students).
 
 2.High-pressure scores AP-5 (98 students) and AP-4 (92) indicate that close to 200 students experience high academic stress, which is a significant mental health               risk factor.
 
-~ Financial Stress Distribution:
+~ Financial Stress(FS) Distribution:
 
 1. Low financial stress (FS-1) is reported by 110 students, which is the highest count among all levels.
 
